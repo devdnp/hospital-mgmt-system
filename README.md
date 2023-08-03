@@ -164,7 +164,7 @@ To register new staff
 ### Update Patient details
 To register new staff
 * **URL**: http://localhost:8088/api/patient/<patirnt>
-* **URL(example)**: http://localhost:8088/api/staff/60188e6f-e332-4fe9-84b6-1c82dd500b5c
+* **URL(example)**: http://localhost:8088/api/patient/60188e6f-e332-4fe9-84b6-1c82dd500b5c
 * **Method**: PUT
 
  ex. Update Doctor name
